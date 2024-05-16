@@ -6,13 +6,13 @@ File Name: mobile_app_installations.csv
 
 Columns:
 
-install_Id: Unique identifier for each installation. (Integer)
-userID: Unique identifier for each user. (Integer)
-installDate: Date of installation (format: MM/DD/YYYY). (Date)
-device: Device model on which the app was installed. (String)
-appVersion: Version of the installed app. (String)
-country: Country where the installation occurred. (String)
-Data Range: January 5, 2022, to February 1, 2023
+• install_Id: Unique identifier for each installation. (Integer)
+• userID: Unique identifier for each user. (Integer)
+• installDate: Date of installation (format: MM/DD/YYYY). (Date)
+• device: Device model on which the app was installed. (String)
+• appVersion: Version of the installed app. (String)
+• country: Country where the installation occurred. (String)
+• Data Range: January 5, 2022, to February 1, 2023
 
 Total Entries: 60
 
